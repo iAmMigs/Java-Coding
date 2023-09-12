@@ -6,3 +6,4 @@ class HelloWorld{
 
 //single line comment
 /* Multi-line Comment */
+/** Java Documentation Comment */
