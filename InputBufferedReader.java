@@ -26,3 +26,8 @@ public class InputBufferedReader {
         input.close(); //not required, but good practice for closing input screen preventing memory leaks..
     }
 }
+
+//Buffered reader is used more in the industry because it is more safer. Prevents memory leaks and errors.
+//Buffered reader is slower than scanner, but it is safer.
+//Forces users to use exception handling.
+//Harder to use than scanner
