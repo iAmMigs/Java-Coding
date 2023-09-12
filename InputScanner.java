@@ -14,6 +14,6 @@ public class InputScanner {
         age = input.nextInt();
         System.out.printf("Hello %s, you are %d years old\n", name, age);
 
-        input.close(); //not required, but good practice for closing input screen preventing memory leaks.
+        input.close(); //not required, but good practice for closing input screen preventing memory leaks..
     }
 }
