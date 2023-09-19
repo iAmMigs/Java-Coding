@@ -1,3 +1,4 @@
+package Lecture;
 // 3 classes should be imported
 
 import java.io.BufferedReader;
