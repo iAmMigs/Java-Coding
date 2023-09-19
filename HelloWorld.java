@@ -11,19 +11,6 @@ class HelloWorld{
         System.out.println("Hello World!");
     }
 }
-
-public class Variables {
-    public static void main(String[] args) {
-        int num1 = 5;
-        byte age;
-
-        String name = "John";
-        String num2 = "19";
-        int inum = Integer.parseInt(num2);
-
-    }
-}
-
 // System.out.println(); // prints to console with new line
 // System.out.print(); // prints to console without new line
 // System.out.printf(); // prints formatted string, if output is too long
