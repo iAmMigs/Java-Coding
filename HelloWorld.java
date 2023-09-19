@@ -20,7 +20,6 @@ public class Variables {
         String name = "John";
         String num2 = "19";
         int inum = Integer.parseInt(num2);
-        Float
 
     }
 }
