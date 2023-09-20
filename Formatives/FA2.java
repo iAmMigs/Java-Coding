@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class FA2 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        int currency = 0;
         System.out.print("Enter Philippine peso amount: ");
         double peso = input.nextDouble();
 
@@ -26,6 +25,7 @@ public class FA2 {
         double sheqel = peso / 11.62829;
         double dinar = peso / 157.80329;
         
+        System.out.println("The amounts are as follows: ");
         System.out.println("\nPhilippine peso: " + peso);
         System.out.println("US Dollar: " + dollar);
         System.out.println("Euro: " + euro);
