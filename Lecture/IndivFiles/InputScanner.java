@@ -1,4 +1,4 @@
-package Lecture;
+package IndivFiles;
 import java.util.Scanner;
 
 public class InputScanner {

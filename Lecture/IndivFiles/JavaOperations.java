@@ -1,4 +1,4 @@
-package Lecture;
+package IndivFiles;
 
 class Operators {
     public static void main(String[] args) {

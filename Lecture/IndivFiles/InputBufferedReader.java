@@ -1,4 +1,4 @@
-package Lecture;
+package IndivFiles;
 // 3 classes should be imported
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package Lecture;
+package IndivFiles;
 /**
  * @Author: Miguel Osinada
  * @Version: 1.0
