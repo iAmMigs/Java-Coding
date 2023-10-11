@@ -8,6 +8,8 @@ public class Student {
     //double x = 0.0
     //float x = 0.0f
 
+    
+
     //Constructor
     public Student(){
         this.id = 0;
