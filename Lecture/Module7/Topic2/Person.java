@@ -1,4 +1,4 @@
-package Java_TX22.Module7.Topic2;
+package Module7.Topic2;
 
 abstract class Person {
     protected int idNo;

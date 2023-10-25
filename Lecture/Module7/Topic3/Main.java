@@ -1,6 +1,6 @@
-package Java_TX22.Module7.Topic3;
+package Module7.Topic3;
 
-import Java_TX22.Module7.Topic1.Person;
+import Module7.Topic1.Person;
 
 public class Main {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Java_TX22.Module7.Topic1;
+package Module7.Topic1;
 
 public class Main {
     public static void main(String[] args){

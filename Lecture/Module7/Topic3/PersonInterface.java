@@ -1,4 +1,4 @@
-package Java_TX22.Module7.Topic3;
+package Module7.Topic3;
 
 import java.util.Random;
 

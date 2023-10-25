@@ -1,4 +1,4 @@
-package Java_TX22.Module7.Topic3;
+package Module7.Topic3;
 
 public class Student extends Info{
     public Student(){

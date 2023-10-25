@@ -1,4 +1,4 @@
-package Java_TX22.Module7.Topic1;
+package Module7.Topic1;
 
 public class Operation {
     public int add(int n1, int n2){

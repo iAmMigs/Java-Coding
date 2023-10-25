@@ -1,4 +1,4 @@
-package Java_TX22.Module7.Topic1;
+package Module7.Topic1;
 
 public class Employee extends Person{
     public Employee(){
