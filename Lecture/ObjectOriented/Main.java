@@ -16,5 +16,8 @@ public class Main{
         stud1.setGrade(sc.nextDouble());
 
         System.out.println(stud1.displayInfo());
+        sc.close();
     }
+
+    
 }
