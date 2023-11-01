@@ -1,6 +1,6 @@
 package Module7.Topic3;
 
-import Module7.Topic1.Person;
+//import Module7.Topic1.Person;
 
 public class Main {
     public static void main(String[] args){
@@ -11,9 +11,9 @@ public class Main {
         // Info i = new Info();
         // PersonInterface pi = new PersonInterface();
 
-        Info p; // Reference object for the Person class
+        //Info p; // Reference object for the Person class
         // This can accept either Student or Employee objects
-        Student stud = new Student(123, "Joseph", "Calleja");
+        //Student stud = new Student(123, "Joseph", "Calleja");
         Employee emp = new Employee(123, "Joseph", "Calleja");
 
         // p = emp;

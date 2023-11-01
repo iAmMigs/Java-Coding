@@ -5,9 +5,9 @@ public class Main {
         // Operation op = new Operation();
         // System.out.println(op.add(23.123, 57));
         
-        Person p; // Reference object for the Person class
+        // Person p; // Reference object for the Person class
         // This can accept either Student or Employee objects
-        Student stud = new Student(123, "Joseph", "Calleja");
+        // Student stud = new Student(123, "Joseph", "Calleja");
         Employee emp = new Employee(123, "Joseph", "Calleja");
 
         // p = emp;
