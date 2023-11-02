@@ -21,5 +21,9 @@ public class Person {
         System.out.println("Name: " + this.name);
         System.out.println("Age: " + this.age);
         System.out.println("Gender: " + this.gender);
+        if (this instanceof Student){
+            System.out.println("Student Number: " + ((Student)this).getStudentNo());
+            System.out.println("Grade: " + ((Student)this).getGrade());
+        }
     }
 }
