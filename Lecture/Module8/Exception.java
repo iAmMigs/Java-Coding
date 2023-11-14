@@ -44,6 +44,7 @@ public class Exception {
         System.out.println("The quotient is: " + quot);
         
         assert(quot > 0) : "The quotient is negative";
+        sc.close();
     }
 
         catch(InputMismatchException e){
@@ -54,5 +55,7 @@ public class Exception {
         finally{
             System.out.println("This is the finally block");
         }
+
+        
     }
 }
